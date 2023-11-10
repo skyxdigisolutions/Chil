@@ -595,7 +595,7 @@ section {
 }
 
 .section-title {
-  text-align: center;
+  text-align: left;
   padding-bottom: 30px;
 }
 
@@ -616,6 +616,7 @@ section {
   margin: 15px 0 0 0;
   font-size: 32px;
   font-weight: 700;
+  text-align: center;
 }
 
 .section-title h3 span {
