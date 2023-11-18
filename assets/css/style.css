@@ -195,7 +195,10 @@ h6 {
 }
 
 .scrolled-offset {
-  margin-top: 70px;
+  margin-top: 20px;
+}
+.scrolled-offset section {
+  padding-bottom:10px;
 }
 
 /*--------------------------------------------------------------
